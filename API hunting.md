@@ -1,5 +1,3 @@
-<h1 style="text-align:center">Recon</h1>
-
 ### Version Discovery
 
 ### Implementation Discovery
@@ -16,12 +14,14 @@
 
 ### Default endpoints in frameworks
 
+
 ### Authentication Endpoints
 - /api/login/
+- /api/register/
 
-### Authentication/Authorization Methods
+### Authentication Mechanism
 - Cookie based?
-- Token based?
+- Token based?  No CSRF
 
 __Identification handlers__
 - JWT?
@@ -30,18 +30,23 @@ __Identification handlers__
 - Encoded/Encrypted Serialized value?
 - Hashed user value (username, user_id etc)?
 
+### What subs using same API
+- 
 
+---
 ## Endpoints
 
-### Interesting
+### Non-Auth
+/api/users/
 
-### Public
-__Endpoint:__ /api/users/
-__Methods:__ GET, POST, PUT, DELETE
-__CORS:__ Vulnerable/Not vulnerable
 
 ### Authentication Required 
 
+
 ### Authorization Required
 
+
+### Static resource
+
+### Interesting
 

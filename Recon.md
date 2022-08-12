@@ -4,50 +4,36 @@
 
 ### WHOIS info
 
-### Determine Web Technologies
+### Web Technologies
 
 ### WAF Identification
 
-### 
+### GitHub recon
+
+### Gdorks
+- 
+
+### Shodan
+
+### Looking out of the scope
+
+
+### JS enumeration
 
 ---
-## Root domain 1
-
-### Functionalities
-
-__Login__
-- What endpoints used to login
-
-__Search__
-
-__Contact Form__
-
-__Sign Up__
-
-### Subs
-__api.domain.com__
+## domain.com
+### api.domain.com [API]
+__Content Discovery__
 - /api/
 - /api/user/
 
-__4xx, default pages__
-- Content discovery
+### store.domain.com
+__Content Discovery__
+- /login
+- /cart
 
 ### Interesting
 
 ---
-## Root domain 2
-
-### Functionalities
-
-### Subs
-
-### Interesting
-
----
-## Root domain 3
-
-### Functionalities
-
-### Subs
-
-### Interesting
+#### MindMaps
+https://github.com/hackerscrolls/SecurityTips/tree/master/MindMaps
